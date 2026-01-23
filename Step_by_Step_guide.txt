@@ -1,0 +1,11 @@
+Step 0
+- get together the data from CFD simulations: ../Data
+- run Postpro to generate centre points file C in latestTime directory: ../Data/generate_cell_centers.sh
+
+Step 1
+- Load all data: ./Step1__Load_all_cases.ipynb
+
+Step 2
+- Data analysis: ./Step2__Data_analysis.ipynb
+
+Step 3
