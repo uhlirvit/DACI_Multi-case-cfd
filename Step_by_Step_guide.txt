@@ -10,3 +10,12 @@ Step 2
 
 Step 3
 - Local models training: ./Step3__Local_models.ipynb
+
+Step 4
+- Interpretability: ./Step4__Local_models_Interpretability.ipynb
+
+Step 5
+- LoLiMoT model training: ./Step5__LoLiMoT.ipynb
+
+Step 6
+- Global model training: ./Step6__Global_model.ipynb
