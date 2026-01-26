@@ -1,0 +1,7 @@
+Location,z/H,β(x_norm),β(U_ref),R²,Interpretation
+Near ground (z/H=0.1),0.10,-2.200,0.154,0.487,Wake deficit
+Half cube (z/H=0.5),0.48,-0.238,0.555,0.681,Wake deficit
+Cube top (z/H=1.0),0.98,0.117,0.849,0.748,Acceleration
+Shear layer (z/H=1.3),1.31,0.477,1.422,0.847,Acceleration
+Above cube (z/H=2.0),1.98,1.540,2.221,0.999,Acceleration
+Freestream (z/H=3.0),2.96,0.036,2.176,0.996,Neutral

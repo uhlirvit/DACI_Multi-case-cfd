@@ -9,3 +9,4 @@ Step 2
 - Data analysis: ./Step2__Data_analysis.ipynb
 
 Step 3
+- Local models training: ./Step3__Local_models.ipynb
